@@ -12,14 +12,14 @@ github_repo: "https://github.com/xyeee/xyeee.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "good man"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/blog_xyeee.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
+zhihu_username:     萧烨
 github_username:    xyeee
 #facebook_username:  
 #jianshu_username:   e71990ada2fd
