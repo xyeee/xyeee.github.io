@@ -1,5 +1,4 @@
 ---
-
 layout:     post                    # 使用的布局（不需要改） 
 
 title:      XMan个人排位赛RSA               # 标题  
@@ -10,7 +9,7 @@ date:       2018-08-17              # 时间
 
 author:     xyeee                      # 作者 
 
-header-img: img/post-bg-2018-xman.png    #这篇文章标题背景图片 
+header-img: img/post-bg-universe.jpg    #这篇文章标题背景图片 
 
 catalog: true                       # 是否归档 
 
