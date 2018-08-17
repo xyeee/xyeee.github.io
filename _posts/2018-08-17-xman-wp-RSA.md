@@ -125,3 +125,4 @@ q:  0x804740ca0f7fa52fd94c9f3854c52654ebcc833f4b2b6f26e5f8d9b3707a21394025d7a5c2
 xman{RSA-is-fun???!!!!}
 ```
 
+[题目源码与wp](https://github.com/xyeee/XMAN2018/tree/master/task_RSA-Generator)
