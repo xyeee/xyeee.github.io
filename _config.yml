@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: efeb99909913982743ee94f966bea5c0
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-124252370-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto            # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -101,9 +101,6 @@ friends: [
     {
         title: "xyeee",
         href: "http://xxyee.cn"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
