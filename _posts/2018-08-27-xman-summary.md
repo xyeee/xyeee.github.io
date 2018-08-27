@@ -1,3 +1,5 @@
+---
+
 layout:     post                    # 使用的布局（不需要改） 
 
 title:      2018XMan夏令营小结               # 标题  
