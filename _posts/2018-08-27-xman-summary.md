@@ -2,9 +2,9 @@
 
 layout:     post                    # 使用的布局（不需要改） 
 
-title:      2018XMan夏令营小结               # 标题  
+title:      XMan 总结               # 标题  
 
-subtitle:   无悔21days #副标题 
+subtitle:   无悔的21days #副标题 
 
 date:       2018-08-27              # 时间 
 
@@ -16,10 +16,11 @@ catalog: true                       # 是否归档
 
 tags:                               #标签     
 
-- xman
-- summary
+ - xman 
 
-------
+---
+
+
 
 ## xman的无悔之旅
 
